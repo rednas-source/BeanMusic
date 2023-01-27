@@ -1,0 +1,5 @@
+nextcord
+spotipy
+youtube_dl
+pafy
+PyNaCl
